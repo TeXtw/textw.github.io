@@ -4,7 +4,7 @@ title: 使用套件 ltj-zhfonts, luatexja 時的中文字型設定
 author: GJ Lee
 author_title: Edward G.J. Lee
 author_url: https://github.com/qtnez
-author_image_url: https://avatars1.githubusercontent.com/u/2055384?v=4
+author_image_url: https://avatars.githubusercontent.com/u/76939356?v=4
 tags: [中文字體]
 ---
 
