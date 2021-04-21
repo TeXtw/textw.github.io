@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TeX 臺灣使用者社群',
+  title: '臺灣 TeX 使用者社群',
   tagline: "Taiwan TeX Users' Group (TEXTW/TWTUG)",
   url: 'https://textw.github.io',
   baseUrl: '/',
@@ -54,12 +54,12 @@ module.exports = {
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Telegram 交流群組',
+              href: 'https://t.me/TWTUG',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Telegram 社群頻道',
+              href: 'https://t.me/TWTUC',
             },
           ],
         },
