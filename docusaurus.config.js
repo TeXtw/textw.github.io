@@ -1,4 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+const path = require('path');
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 module.exports = {
   title: '臺灣 TeX 使用者社群',
   tagline: "Taiwan TeX Users' Group (TEXTW/TWTUG)",
