@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>臺灣 TeX 使用者社群 Blog</title>
+        <link>https://textw.github.io/blog</link>
+        <description>臺灣 TeX 使用者社群 Blog</description>
+        <lastBuildDate>Thu, 25 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[使用套件 ltj-zhfonts, luatexja 時的中文字型設定]]></title>
+            <link>https://textw.github.io/blog/ltj-zhfonts-and-luatexja-chinese-font-setting</link>
+            <guid>ltj-zhfonts-and-luatexja-chinese-font-setting</guid>
+            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ltj-zhfonts.sty 是我從 luatexja-zhfonts.sty 修改來的，有需要的朋友可以拿來修改後使用。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://textw.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://textw.github.io/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hola]]></title>
+            <link>https://textw.github.io/blog/hola</link>
+            <guid>hola</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+        </item>
+    </channel>
+</rss>
